@@ -1,5 +1,5 @@
 <project name="My Project" default="help" basedir=".">
-  <!-- Define the properties used by the build   added line-->
+  <!-- Define the properties used by the build   added line master branch-->
   <property name="app.name"      value="helloWorld"/>
   <property name="app.version"   value="0.1-dev"/>
   <property name="tcserver.home" value="C:\Program Files\Tomcat1\apache-tomcat-8.5.11" />
