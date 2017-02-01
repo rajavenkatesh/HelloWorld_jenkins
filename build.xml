@@ -20,7 +20,7 @@
     <echo>For example, to clean, compile, and package all at once, run:</echo>
     <echo>prompt> ant all </echo>
   </target>
-<!-- Define the properties used by the build   added line-- dev branch>
+<!-- Define the properties used by the build   added line dev branch -->
   <!-- Define the CLASSPATH -->
   <path id="compile.classpath">
     <fileset dir="${tcserver.home}/bin">
